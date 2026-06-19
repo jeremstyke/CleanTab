@@ -4,7 +4,7 @@
 
 **Browser Cleaner for Chrome — Nettoyeur de navigateur pour Chrome**
 
-Clean your browser in one click or automatically.
+Clean your browser in one click or automatically.  
 Nettoyez votre navigateur en un clic ou automatiquement.
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/eghdcennpmcmcdjkdnbggkeikkikdhod)
@@ -31,8 +31,8 @@ CleanTab cleans your Chrome browser in a single click — or automatically, on a
 
 ### What you can clean
 
-| | |
-|---|---|
+| Category | Description |
+|----------|-------------|
 | 🗂️ Cache | Cached images, scripts and files |
 | 🍪 Cookies | Session and login data |
 | 📜 History | Visited pages |
@@ -42,8 +42,12 @@ CleanTab cleans your Chrome browser in a single click — or automatically, on a
 ### Privacy
 
 CleanTab does not collect, store, or transmit any personal data. Everything happens locally in your browser.
-Learn more about CleanTab:
+
+### Learn More
+
+Visit the official website:  
 https://jeremstyke.github.io/cleantab/
+
 ---
 
 ## 🇫🇷 Français
@@ -64,8 +68,8 @@ CleanTab nettoie votre navigateur Chrome en un seul clic — ou automatiquement,
 
 ### Ce que vous pouvez nettoyer
 
-| | |
-|---|---|
+| Catégorie | Description |
+|------------|-------------|
 | 🗂️ Cache | Images, scripts et fichiers mis en cache |
 | 🍪 Cookies | Données de session et de connexion |
 | 📜 Historique | Pages visitées |
@@ -75,6 +79,11 @@ CleanTab nettoie votre navigateur Chrome en un seul clic — ou automatiquement,
 ### Confidentialité
 
 CleanTab ne collecte, ne stocke et ne transmet aucune donnée personnelle. Tout se passe localement dans votre navigateur.
+
+### En savoir plus
+
+Visitez le site officiel :  
+https://jeremstyke.github.io/cleantab/
 
 ---
 
