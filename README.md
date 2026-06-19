@@ -42,7 +42,8 @@ CleanTab cleans your Chrome browser in a single click — or automatically, on a
 ### Privacy
 
 CleanTab does not collect, store, or transmit any personal data. Everything happens locally in your browser.
-
+Learn more about CleanTab:
+https://jeremstyke.github.io/cleantab/
 ---
 
 ## 🇫🇷 Français
@@ -75,6 +76,8 @@ CleanTab nettoie votre navigateur Chrome en un seul clic — ou automatiquement,
 
 CleanTab ne collecte, ne stocke et ne transmet aucune donnée personnelle. Tout se passe localement dans votre navigateur.
 
+En savoir plus sur CleanTab :
+https://jeremstyke.github.io/cleantab/
 ---
 
 <div align="center">
