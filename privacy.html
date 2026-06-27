@@ -421,12 +421,35 @@
   <h2>Contact</h2>
   <p>Pentru orice întrebare despre această politică: <a href="mailto:juryjeremy@gmail.com">juryjeremy@gmail.com</a></p>
 </div>
+
+<div style="text-align:center; margin:40px 0 10px;">
+  <a id="kofiBadge" href="https://ko-fi.com/cleantab" target="_blank" rel="noopener"
+     style="display:inline-flex; align-items:center; gap:8px; padding:14px 30px;
+            background:linear-gradient(135deg,#ff5e5b,#ff7a47); color:#fff; text-decoration:none;
+            font-weight:700; font-size:16px; border-radius:14px;
+            box-shadow:0 6px 20px rgba(255,94,91,0.4); transition:transform 0.2s;"
+     onmouseover="this.style.transform='translateY(-2px)'" onmouseout="this.style.transform='translateY(0)'">
+    ☕ Buy me a coffee
+  </a>
+</div>
 <script>
+  var KOFI_TEXT = {
+    en:'☕ Buy me a coffee', fr:'☕ Offrez-moi un café', es:'☕ Invítame a un café',
+    de:'☕ Spendier mir einen Kaffee', it:'☕ Offrimi un caffè', pt:'☕ Pague-me um café',
+    nl:'☕ Trakteer me op koffie', pl:'☕ Postaw mi kawę', tr:'☕ Bana bir kahve ısmarla',
+    ru:'☕ Купить мне кофе', zh:'☕ 请我喝杯咖啡', ja:'☕ コーヒーをおごる',
+    ko:'☕ 커피 사주기', hi:'☕ मुझे कॉफ़ी पिलाएँ', ar:'☕ اشترِ لي قهوة',
+    id:'☕ Belikan saya kopi', vi:'☕ Mời tôi một ly cà phê', th:'☕ เลี้ยงกาแฟฉัน',
+    uk:'☕ Купити мені каву', sv:'☕ Bjud mig på kaffe', el:'☕ Κέρασέ με καφέ',
+    cs:'☕ Kup mi kávu', ro:'☕ Fă-mi cinste cu o cafea'
+  };
   function setLang(l) {
     document.querySelectorAll('.page').forEach(p => p.classList.toggle('active', p.dataset.lang === l));
     document.querySelectorAll('.langbar button').forEach(b => b.classList.remove('active'));
     var sel = document.getElementById('langSelect'); if (sel) sel.value = l;
     document.documentElement.lang = l;
+    var kofi = document.getElementById('kofiBadge');
+    if (kofi) kofi.textContent = KOFI_TEXT[l] || KOFI_TEXT.en;
   }
   (function() {
     var supported = ['en', 'fr', 'es', 'de', 'it', 'pt', 'nl', 'pl', 'tr', 'ru', 'zh', 'ja', 'ko', 'hi', 'ar', 'id', 'vi', 'th', 'uk', 'sv', 'el', 'cs', 'ro'];
