@@ -1,60 +1,79 @@
-Copyright (c) 2026 Jeremstyke. All rights reserved.
+═══════════════════════════════════════════════════════════════════════════
 
-================================================================================
-ENGLISH
-================================================================================
+                          CleanTab - Browser Cleaner
+                        Copyright © 2026 Jeremstyke
+                            All Rights Reserved
 
-This software and its associated source code, assets, and documentation
-(collectively, "the Software") are the exclusive property of Jeremstyke
-("the Author").
+═══════════════════════════════════════════════════════════════════════════
 
-ALL RIGHTS RESERVED.
 
-No part of the Software may be reproduced, distributed, modified, published,
-sublicensed, sold, or used to create derivative works, in whole or in part, by
-any means or in any form, without the prior explicit written permission of the
-Author.
+PROPRIETARY SOFTWARE LICENSE
 
-The Software is provided for viewing purposes only. No license, express or
-implied, is granted to any person obtaining a copy of the Software to use,
-copy, modify, merge, publish, distribute, sublicense, or sell copies of it.
+This software and its source code (the "Software") are the exclusive property
+of Jeremstyke (the "Author"). The Software is protected by copyright law and
+international treaties.
 
-Unauthorized use, reproduction, or distribution of the Software, or any portion
-of it, may result in civil and criminal penalties, and will be prosecuted to
-the maximum extent possible under the law.
+
+───────────────────────────────────────────────────────────────────────────
+  1. OWNERSHIP
+───────────────────────────────────────────────────────────────────────────
+
+All rights, title, and interest in and to the Software, including all
+intellectual property rights, remain solely with the Author. No ownership
+rights are transferred to any other party.
+
+
+───────────────────────────────────────────────────────────────────────────
+  2. RESTRICTIONS
+───────────────────────────────────────────────────────────────────────────
+
+Without the prior written permission of the Author, you may NOT:
+
+  ✗  Copy, reproduce, or duplicate the Software or its source code
+  ✗  Modify, adapt, translate, or create derivative works
+  ✗  Distribute, sublicense, sell, rent, lease, or lend the Software
+  ✗  Reverse engineer, decompile, or disassemble the Software
+  ✗  Remove or alter any copyright, trademark, or proprietary notices
+  ✗  Use the Software or any part of its code in another project
+
+
+───────────────────────────────────────────────────────────────────────────
+  3. PERMITTED USE
+───────────────────────────────────────────────────────────────────────────
+
+End users are granted a personal, non-exclusive, non-transferable right to
+install and use the CleanTab extension as published on the official
+Chrome Web Store, for their own personal, non-commercial use.
+
+This repository is made publicly visible for transparency and trust only.
+Public visibility does NOT grant any license to reuse the code.
+
+
+───────────────────────────────────────────────────────────────────────────
+  4. NO WARRANTY
+───────────────────────────────────────────────────────────────────────────
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
-CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE
+USE OF THE SOFTWARE.
 
-================================================================================
-FRANÇAIS
-================================================================================
 
-Ce logiciel ainsi que son code source, ses ressources et sa documentation
-associés (collectivement, « le Logiciel ») sont la propriété exclusive de
-Jeremstyke (« l'Auteur »).
+───────────────────────────────────────────────────────────────────────────
+  5. CONTACT
+───────────────────────────────────────────────────────────────────────────
 
-TOUS DROITS RÉSERVÉS.
+For licensing inquiries, permissions, or business requests:
 
-Aucune partie du Logiciel ne peut être reproduite, distribuée, modifiée,
-publiée, sous-licenciée, vendue, ou utilisée pour créer des œuvres dérivées,
-en tout ou en partie, par quelque moyen ou sous quelque forme que ce soit, sans
-l'autorisation écrite et explicite préalable de l'Auteur.
+  Author   :  Jeremstyke
+  Email    :  juryjeremy@gmail.com
+  Website  :  https://jeremstyke.github.io/cleantab/
 
-Le Logiciel est fourni à des fins de consultation uniquement. Aucune licence,
-expresse ou implicite, n'est accordée à toute personne obtenant une copie du
-Logiciel pour l'utiliser, le copier, le modifier, le fusionner, le publier, le
-distribuer, le sous-licencier ou en vendre des copies.
 
-Toute utilisation, reproduction ou distribution non autorisée du Logiciel, ou
-de toute partie de celui-ci, peut entraîner des sanctions civiles et pénales et
-sera poursuivie dans toute la mesure permise par la loi.
+═══════════════════════════════════════════════════════════════════════════
 
-LE LOGICIEL EST FOURNI « EN L'ÉTAT », SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU
-IMPLICITE. EN AUCUN CAS L'AUTEUR NE POURRA ÊTRE TENU RESPONSABLE DE TOUTE
-RÉCLAMATION, DOMMAGE OU AUTRE RESPONSABILITÉ DÉCOULANT DU LOGICIEL OU DE SON
-UTILISATION.
+  © 2026 Jeremstyke. CleanTab and its source code are protected works.
+  Unauthorized use, reproduction, or distribution is strictly prohibited.
+
+═══════════════════════════════════════════════════════════════════════════
